@@ -10,11 +10,14 @@
 
   <h3>Software Developer</h3>
   
-  <img align="right" width="500" alt="coding" src="https://developermonaem.com/wp-content/uploads/2022/01/b9e4960c1476c78043d499d975f86cdb.gif">
+  <img align="right" width="400" alt="coding" src="https://developermonaem.com/wp-content/uploads/2022/01/b9e4960c1476c78043d499d975f86cdb.gif">
   
   
       
-      A Passion For Web Application Development And Success In Managing Development Projects. I Am Skilled In Conceptualizing , Designing , Developing , And Deploying Software Containing Logical And Mathematical Solutions To Business Problems. I Am Dedicated To Driving Innovation To Follow Industry And Technological Trends And Facilitate The Early Adoption Of Innovations.
+     
+     
+     
+     A Passion For Web Application Development And Success In Managing Development Projects. I Am Skilled In Conceptualizing , Designing , Developing , And Deploying Software Containing Logical And Mathematical Solutions To Business Problems. I Am Dedicated To Driving Innovation To Follow Industry And Technological Trends And Facilitate The Early Adoption Of Innovations.
 
 
 
