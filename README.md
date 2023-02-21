@@ -6,14 +6,15 @@
 </p>
 
 
-<h1 align="center">Yellâppân.P
+<h1>Yellâppân.P
 
-  <h3 align="center">FullStack Developer</h3>
+  <h3>Software Developer</h3>
   
   <img align="right" width="500" alt="coding" src="https://developermonaem.com/wp-content/uploads/2022/01/b9e4960c1476c78043d499d975f86cdb.gif">
   
   
-  Web Developer With A Passion For Web Application Development And Success In Managing Development Projects. I Am Skilled In Conceptualizing , Designing , Developing , And Deploying Software Containing Logical And Mathematical Solutions To Business Problems. I Am Dedicated To Driving Innovation To Follow Industry And Technological Trends And Facilitate The Early Adoption Of Innovations.
+      
+      A Passion For Web Application Development And Success In Managing Development Projects. I Am Skilled In Conceptualizing , Designing , Developing , And Deploying Software Containing Logical And Mathematical Solutions To Business Problems. I Am Dedicated To Driving Innovation To Follow Industry And Technological Trends And Facilitate The Early Adoption Of Innovations.
 
 
 
@@ -46,12 +47,10 @@
   [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
   [![Javascript Badge](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
   [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![Angular Badge](https://img.shields.io/badge/-Angular-61DAFB?style=for-the-badge&logo=angular&logoColor=red)](https://angular.org)
   [![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://www.w3schools.com/php/)
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/MySQL/default.asp)
-  [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.adobe.com/in/)
-  [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+  
   
   
   
