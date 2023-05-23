@@ -1,5 +1,5 @@
 
-<!-- <img src="https://miro.medium.com/max/1400/0*Gedrd7f2rG9t6mph" height="330" width="1000"/> -->
+<img src="https://github.com/Madesh0143/Madesh0143/blob/main/Git-banner.jpg?raw=true" height="330" width="1050"/>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=madesh0143&label=Profile%20views&color=0e75b6&style=flat" alt="madesh0143" " />
