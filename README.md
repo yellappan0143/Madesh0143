@@ -1,20 +1,24 @@
 
-<img src="https://github.com/Madesh0143/Madesh0143/blob/main/Git-banner.jpg?raw=true" height="330" width="1050"/>
+<img src="https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=2048x2048&w=is&k=20&c=4lsaj5ZydgU175wIBTN4KaYib9uCsm2FgBDAL88Vow8=" height="330" width="1050"/>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=madesh0143&label=Profile%20views&color=0e75b6&style=flat" alt="madesh0143" " />
 </p>
 
 
-<h1>Yellappan.P 
-                                                                                                                          
-  <h3>Software Developer</h3>
+<h2>About Me</h2> 
+<h4>Hi,I'm Yellappan P</h4>
+<p>Aspiring software engineer with hands-on experience in Java, Manual Testing ,Web Development, GitHub, and SQL. I have the Strong ability to quickly learn and grasp new technologies. <br>
+* Achieved a comprehensive understanding of front-end web development in a short period of time and Developed a Farmer-Tractor Booking System project showcasing my skills in front-end web development. <br>
+*The world is moving towards AI, so I started learning the booming Java programming language and Successfully integrated Java and SQL to leverage the power of both technologies.<br>
+I am eager to contribute to a team where I can develop innovative solutions.
+</p>
+<p align="center">Glad to see you here! ❤️</p>
+<hr>
   
-  <img align="right" width="400" alt="coding" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif">
-                                                                                                                  
-     I am passion for developing web applications and a successful track record in managing development projects. Expert in designing, coding, and deploying software solutions to solve business challenges. Always strive to stay ahead of industry and technological trends to bring cutting-edge innovation for early adoption.
+  <img align="right"  height="250" alt="coding" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif">
 
-<h3 align="left">Glad to see you here!</h3>
+<h3 align="left">Get In Touch</h3>
 <p align="left">
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yellappan)](https://twitter.com/yellappanp)
@@ -38,8 +42,8 @@
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/MySQL/default.asp)
   
 </p>      
-<hr>
-               <p align="center">❤️</p>
+
+              
 
                
                
