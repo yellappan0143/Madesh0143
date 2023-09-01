@@ -8,8 +8,8 @@
 <u  >Hi,I'm Yellappan P</u>
 
 <p>Aspiring software engineer with hands-on experience in Java, Manual Testing ,Web Development, GitHub, and SQL. I have the Strong ability to quickly learn and grasp new technologies. <br>
-* Achieved a comprehensive understanding of front-end web development in a short period of time and Developed a Farmer-Tractor Booking System project showcasing my skills in front-end web development. <br>
-*The world is moving towards AI, so I started learning the booming Java programming language and Successfully integrated Java and SQL to leverage the power of both technologies.<br>
+> Achieved a comprehensive understanding of front-end web development in a short period of time and Developed a Farmer-Tractor Booking System project showcasing my skills in front-end web development. <br>
+> The world is moving towards AI, so I started learning the booming Java programming language and Successfully integrated Java and SQL to leverage the power of both technologies.<br>
 I am eager to contribute to a team where I can develop innovative solutions.
 </p>
 <p align="center">Glad to see you here! ❤️</p>
