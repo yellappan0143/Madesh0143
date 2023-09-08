@@ -5,7 +5,7 @@
 
 
 <h2>About Me🤩</h2> 
-<u  >Hi,I'm Yellappan P</u>
+<h4>Hi I'm Yellappan P</h4>
 
 <p>Aspiring software engineer with hands-on experience in Java, Manual Testing ,Web Development, GitHub, and SQL. I have the Strong ability to quickly learn and grasp new technologies. <br>
 > Achieved a comprehensive understanding of front-end web development in a short period of time and Developed a Farmer-Tractor Booking System project showcasing my skills in front-end web development. <br>
@@ -28,7 +28,7 @@ I am eager to contribute to a team where I can develop innovative solutions.
 
 </p>
    
- <h3 align="left">Skills And Experience✨</h3>
+ <h3 align="left">Technial Terms✨</h3>
 
 <p align="left">
 
